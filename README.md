@@ -62,6 +62,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/nghoaibao03/nghoaibao03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nghoaibao03/nghoaibao03/output/snake.svg" />
+
 
 ###
