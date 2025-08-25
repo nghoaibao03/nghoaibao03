@@ -48,9 +48,9 @@
 
 #### ⚡ Big Data & Streaming  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" />
-<img src="https://drive.google.com/file/d/1zdE5nUGF624wjYVrN7rVeRohXqa-ZsOZ/view?usp=sharing" height="30"/>
+<img src="https://raw.githubusercontent.com/nghoaibao03/nghoaibao03/main/assets/hadoop-svgrepo-com.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="30" />
-<img src="https://flink.apache.org/img/logo/svg/color_black.svg" height="30" alt="Flink" />
+<img src="https://raw.githubusercontent.com/nghoaibao03/nghoaibao03/main/assets/flink.svg" height="30" alt="Flink" />
 
 
 #### ☁️ Tools & Cloud  
