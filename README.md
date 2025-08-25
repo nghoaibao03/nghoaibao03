@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img align="center" height="180" src="https://media1.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif" alt="coding panda" />
+  <img align="center" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBucW56aDY0eGxjMmtoY2lkM3V0ZXc2dDRzZDc3d3c1cHpiaHljNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sY6DRXWTn9a2k/giphy.gif" alt="coding panda" />
 </div>
 
 ---
