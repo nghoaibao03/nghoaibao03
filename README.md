@@ -13,12 +13,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=nghoaibao03&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghoaibao03&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nghoaibao03&show_icons=true&count_private=true&include_all_commits=true&theme=shadow_red&hide_border=false" height="170" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghoaibao03&layout=compact&langs_count=8&theme=shadow_red&hide_border=false" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghoaibao03&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nghoaibao03&show_icons=true&count_private=true&include_all_commits=true&theme=shadow_red&hide_border=false&rank_icon=github" height="170" alt="GitHub Stats" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghoaibao03&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages" /> -->
 </div>
 
