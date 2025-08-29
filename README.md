@@ -9,7 +9,7 @@
   <a href="https://github.com/nghoaibao03">
     <img height="20" src="https://komarev.com/ghpvc/?username=nghoaibao03&style=flat" />
   </a>
-  <a href="https://github.com/Seeker38">
+  <a href="https://github.com/nghoaibao03">
     <img height="20" src="https://img.shields.io/github/followers/nghoaibao03?label=follow&logo=github&style=flat" />
   </a>
 </p>
