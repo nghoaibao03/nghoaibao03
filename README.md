@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Naive Panda</h1>
+<h1 align="center">👋 Hi, I'm Blue Bird</h1>
 <h3 align="center">🚀 Data Engineer from Viet Nam 🇻🇳</h3>
 
 ---
@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img align="center" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBucW56aDY0eGxjMmtoY2lkM3V0ZXc2dDRzZDc3d3c1cHpiaHljNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sY6DRXWTn9a2k/giphy.gif" alt="coding panda" />
+  <img align="center" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q0N3U2aW90ZWppNWZ6bzFtcXRzdTlvc256MGNvM3J6ejB4cDQ2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ku4YGtGVwAQRDDmYxZ/giphy.gif" alt="coding panda" />
 </div>
 
 ---
