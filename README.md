@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Blue Bird</h1>
 <h3 align="center">🚀 Data Engineer from Viet Nam 🇻🇳</h3>
 
----
-
 ### 👨‍💻 About Me
 
 <p align="=left">
@@ -14,11 +12,18 @@
   </a>
 </p>
 
+- [x] 👨‍💻 A tech enthusiast who loves coding and sharing ideas
+- [x] ☕ Love coding & sharing
+- [x] ✨ Keep learning, keep building
+- [x] 🌊 Aspiring Data Engineer
 
-- 🎓 Passionate about **Data Engineering, ETL pipelines, and Cloud Infrastructure**  
-- ⚡ Experienced with **Spring Boot, Python, Kafka, and SQL/NoSQL databases**  
-- ☁️ Interested in **building scalable data platforms and real-time systems**  
-- 📚 Always learning about **big data, distributed systems, and ML integration**  
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.facebook.com/hblegend2003/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" /></a>
+  <a href="https://discord.com/channels/@me/1037417205194817678"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>
+  <a href="ng.hoaibao03ht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+  <a href="https://www.linkedin.com/in/hoaibao03ht/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+</div>
 
 ---
 
@@ -73,16 +78,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
 
-</div>
-
----
-
-### 🌐 Connect with Me
-<div align="center">
-  <a href="https://www.facebook.com/hblegend2003/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" /></a>
-  <a href="https://discord.com/channels/@me/1037417205194817678"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>
-  <a href="ng.hoaibao03ht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
-  <a href="https://www.linkedin.com/in/hoaibao03ht/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 </div>
 
 ---
