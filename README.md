@@ -16,6 +16,7 @@
 - [x] ☕ Love coding & sharing
 - [x] ✨ Keep learning, keep building
 - [x] 🌊 Aspiring Data Engineer
+- [x] 🚀 Checking My sandbox Data Engineer project here  [![GitLab](https://img.shields.io/badge/GitLab-Repo-orange?logo=gitlab)](https://gitlab.com/nghoaibao03)
 
 ### 🌐 Connect with Me
 <div align="center">
