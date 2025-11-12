@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Blue Bird</h1>
+<!-- <h1 align="center">👋 Hi, I'm Blue Bird</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Momo+Signature&size=35&center=true&vCenter=true&color=23789E&width=500&height=70&duration=2000&pause=1000&lines=%F0%9F%91%8B+Hi+!;I'm+Blue+Bird" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">🚀 Data Engineer from Viet Nam 🇻🇳</h3>
 
 ### 👨‍💻 About Me
