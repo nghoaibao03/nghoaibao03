@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://www.facebook.com/hblegend2003/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" /></a>
   <a href="https://discord.com/channels/@me/1037417205194817678"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>
-  <a href="ng.hoaibao03ht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+  <a href="mailto:ng.hoaibao03ht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
   <a href="https://www.linkedin.com/in/hoaibao03ht/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 </div>
 
